@@ -1,0 +1,17 @@
+Region,Product,Revenue,Units_Sold,Quarter
+North,Laptop,12000,45,Q1
+South,Phone,15000,60,Q1
+East,Tablet,9000,30,Q1
+West,Headphones,7000,50,Q1
+North,Phone,14000,55,Q2
+South,Tablet,8000,35,Q2
+East,Laptop,16000,40,Q2
+West,Phone,11000,70,Q2
+North,Tablet,9500,25,Q3
+South,Headphones,6000,45,Q3
+East,Phone,17000,65,Q3
+West,Laptop,18000,50,Q3
+North,Headphones,7500,40,Q4
+South,Laptop,15500,48,Q4
+East,Tablet,9800,30,Q4
+West,Phone,16500,72,Q4
